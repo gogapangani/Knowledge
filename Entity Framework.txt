@@ -1,0 +1,10 @@
+DDD
+	Modeling Aggregates with DDD and Entity Framework
+	https://kalele.io/modeling-aggregates-with-ddd-and-entity-framework/
+
+
+CQRS
+	https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs4
+
+	Book Download: Exploring CQRS and Event Sourcing
+	https://www.microsoft.com/en-us/download/details.aspx?id=34774
